@@ -1,6 +1,10 @@
 # Entre-Cifras
 
-Welcome to the repository of Entre Cifras, a project dedicated to the world of music and the learning of musical instruments! This project aims to enhance user experience as they explore the home page of a blog specialized in this fascinating universe.
+Welcome to the repository of Entre Cifras, a project dedicated to the world of music and the learning of musical instruments! This project aims to enhance user experience as they explore the home page of a blog specialized in this fascinating universe. You can access the complete site at: https://gabrielfc98.github.io/Entre-Cifras/
+
+ <p align="center">
+  <img src="https://github.com/gabrielfc98/Entre-Cifras/assets/122616019/1db0d8da-cb6d-47a2-95d6-7e05ecf896dd">
+</p>
 
 <h3>Technologies Used:</h3>  
 - HTML: For semantic structuring and content organization.
